@@ -1,4 +1,4 @@
-![logo](logo.png)
+![logo](https://github.com/bankongithub/.github/blob/main/profile/logo.png)
 
 <h1>Bank on GitHub</h1>
 
